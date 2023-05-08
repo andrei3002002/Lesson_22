@@ -15,5 +15,15 @@ public class Home_Work_20 {
     this.center_y = center_y;
   }
 
+  public double getCenter_x(){
+    return center_x;
+  }
 
+  public double getCenter_y() {
+    return center_y;
+  }
+
+  public double getRadius() {
+    return radius;
+  }
 }
